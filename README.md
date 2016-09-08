@@ -1,6 +1,6 @@
 # docker_jekyll
 
-See [https://hub.docker.com/r/nanopx/jekyll/](docker hub).
+See [docker hub](https://hub.docker.com/r/nanopx/jekyll/).
 
 ## Features
 
